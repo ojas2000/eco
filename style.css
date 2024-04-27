@@ -175,3 +175,10 @@ body{
     box-shadow: #D6D6E7 0 3px 7px inset;
     transform: translateY(2px);
   }
+
+
+  .page{
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+  }
